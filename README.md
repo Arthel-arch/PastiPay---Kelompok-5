@@ -1,5 +1,4 @@
 # PastiPay---Kelompok-5
-* **Proyek UTS Web Client Development - Universitas Cakrawala.**
 Website profil resmi PastiPay, sebuah platform payment gateway terkemuka untuk bisnis online di Indonesia. Proyek ini menyajikan informasi layanan ekosistem pembayaran yang aman, cepat, dan transparan, lengkap dengan visualisasi arsitektur sistem dan dasbor interaktif yang responsif.
 
 ## Anggota Kelompok
